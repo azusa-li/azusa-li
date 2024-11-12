@@ -41,13 +41,6 @@ I'm Ziming Li, a graduate student and researcher passionate about multi-agent sy
 - Email: 15071186776@163.com
 - Currently seeking PhD positions for 2025 Fall
 
-## 🌟 Fun Facts
-- Member of an open-source AI research community
-- Passionate about developing collaborative AI systems
-- Experienced in both academic research and practical implementation
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azusa-li&show_icons=true&theme=radical)
-
 <!--
 Feel free to connect with me for research collaborations or discussions about:
 
