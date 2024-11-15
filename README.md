@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Ziming Li, a graduate student and researcher passionate about multi-agent systems and AI alignment.
+I'm Ziming Li, a graduate student and researcher passionate about multi-agent systems and AI alignment. This is my [homepage](https://azusa-li.github.io/).
 
 ## 🔭 Current Work
 - Research Intern at M-A-P community, focusing on Multi-agent systems and AI alignment research
@@ -28,10 +28,8 @@ I'm Ziming Li, a graduate student and researcher passionate about multi-agent sy
 - Simulates multi-disciplinary expert collaboration through role-playing
 
 ## 🔍 Research Interests
-- Multi-agent Systems
 - LLM Agents
-- Code LLMs
-- AI Alignment
+- LLM Reasoning
 
 ## 💼 Experience
 - Research Intern at M-A-P (June 2024 - Present)
