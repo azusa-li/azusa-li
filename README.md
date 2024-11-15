@@ -1,8 +1,8 @@
 # Hi there 👋 
 
-I'm Ziming Li, a graduate student and researcher passionate about LLM agents and LLM Reasoning.
+![Views](https://komarev.com/ghpvc/?username=azusa-li&label=Views)
 
-![Views](https://komarev.com/ghpvc/?username=azusa-li&label=PROFILE+VIEWS)
+I'm Ziming Li, a graduate student and researcher passionate about LLM agents and LLM Reasoning.
 
 ## 🔭 Current Work
 - Research Intern at M-A-P community, focusing on LLM agents and LLM Reasoning research
